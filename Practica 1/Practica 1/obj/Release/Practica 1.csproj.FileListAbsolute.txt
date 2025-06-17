@@ -1,0 +1,11 @@
+C:\Users\starw\OneDrive\Documentos\Proyectos POO\OneDrive_2_10-3-2025\Parcial 1\Practicas\Practica 1\Practica 1\bin\Release\Practica 1.exe.config
+C:\Users\starw\OneDrive\Documentos\Proyectos POO\OneDrive_2_10-3-2025\Parcial 1\Practicas\Practica 1\Practica 1\bin\Release\Practica 1.exe
+C:\Users\starw\OneDrive\Documentos\Proyectos POO\OneDrive_2_10-3-2025\Parcial 1\Practicas\Practica 1\Practica 1\bin\Release\Practica 1.pdb
+C:\Users\starw\OneDrive\Documentos\Proyectos POO\OneDrive_2_10-3-2025\Parcial 1\Practicas\Practica 1\Practica 1\obj\Release\Practica 1.csproj.AssemblyReference.cache
+C:\Users\starw\OneDrive\Documentos\Proyectos POO\OneDrive_2_10-3-2025\Parcial 1\Practicas\Practica 1\Practica 1\obj\Release\Practica_1.Form1.resources
+C:\Users\starw\OneDrive\Documentos\Proyectos POO\OneDrive_2_10-3-2025\Parcial 1\Practicas\Practica 1\Practica 1\obj\Release\Practica_1.Properties.Resources.resources
+C:\Users\starw\OneDrive\Documentos\Proyectos POO\OneDrive_2_10-3-2025\Parcial 1\Practicas\Practica 1\Practica 1\obj\Release\Practica 1.csproj.GenerateResource.cache
+C:\Users\starw\OneDrive\Documentos\Proyectos POO\OneDrive_2_10-3-2025\Parcial 1\Practicas\Practica 1\Practica 1\obj\Release\Practica 1.csproj.CoreCompileInputs.cache
+C:\Users\starw\OneDrive\Documentos\Proyectos POO\OneDrive_2_10-3-2025\Parcial 1\Practicas\Practica 1\Practica 1\obj\Release\Practica 1.exe
+C:\Users\starw\OneDrive\Documentos\Proyectos POO\OneDrive_2_10-3-2025\Parcial 1\Practicas\Practica 1\Practica 1\obj\Release\Practica 1.pdb
+C:\Users\starw\OneDrive\Documentos\Proyectos POO\OneDrive_2_10-3-2025\Parcial 1\Practicas\Practica 1\Practica 1\bin\Release\Firma\firma.exe

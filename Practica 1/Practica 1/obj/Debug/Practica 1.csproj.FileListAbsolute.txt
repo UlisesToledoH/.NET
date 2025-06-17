@@ -1,0 +1,21 @@
+D:\Proyectos de Visual\Practicas\Practica 1\Practica 1\bin\Debug\Practica 1.exe.config
+D:\Proyectos de Visual\Practicas\Practica 1\Practica 1\bin\Debug\Practica 1.exe
+D:\Proyectos de Visual\Practicas\Practica 1\Practica 1\bin\Debug\Practica 1.pdb
+D:\Proyectos de Visual\Practicas\Practica 1\Practica 1\obj\Debug\Practica 1.csproj.AssemblyReference.cache
+D:\Proyectos de Visual\Practicas\Practica 1\Practica 1\obj\Debug\Practica_1.Form1.resources
+D:\Proyectos de Visual\Practicas\Practica 1\Practica 1\obj\Debug\Practica_1.Properties.Resources.resources
+D:\Proyectos de Visual\Practicas\Practica 1\Practica 1\obj\Debug\Practica 1.csproj.GenerateResource.cache
+D:\Proyectos de Visual\Practicas\Practica 1\Practica 1\obj\Debug\Practica 1.csproj.CoreCompileInputs.cache
+D:\Proyectos de Visual\Practicas\Practica 1\Practica 1\obj\Debug\Practica 1.exe
+D:\Proyectos de Visual\Practicas\Practica 1\Practica 1\obj\Debug\Practica 1.pdb
+C:\Users\starw\OneDrive\Documentos\Proyectos POO\OneDrive_2_10-3-2025\Parcial 1\Practicas\Practica 1\Practica 1\bin\Debug\Practica 1.exe.config
+C:\Users\starw\OneDrive\Documentos\Proyectos POO\OneDrive_2_10-3-2025\Parcial 1\Practicas\Practica 1\Practica 1\bin\Debug\Practica 1.exe
+C:\Users\starw\OneDrive\Documentos\Proyectos POO\OneDrive_2_10-3-2025\Parcial 1\Practicas\Practica 1\Practica 1\bin\Debug\Practica 1.pdb
+C:\Users\starw\OneDrive\Documentos\Proyectos POO\OneDrive_2_10-3-2025\Parcial 1\Practicas\Practica 1\Practica 1\obj\Debug\Practica 1.csproj.AssemblyReference.cache
+C:\Users\starw\OneDrive\Documentos\Proyectos POO\OneDrive_2_10-3-2025\Parcial 1\Practicas\Practica 1\Practica 1\obj\Debug\Practica_1.Form1.resources
+C:\Users\starw\OneDrive\Documentos\Proyectos POO\OneDrive_2_10-3-2025\Parcial 1\Practicas\Practica 1\Practica 1\obj\Debug\Practica_1.Properties.Resources.resources
+C:\Users\starw\OneDrive\Documentos\Proyectos POO\OneDrive_2_10-3-2025\Parcial 1\Practicas\Practica 1\Practica 1\obj\Debug\Practica 1.csproj.GenerateResource.cache
+C:\Users\starw\OneDrive\Documentos\Proyectos POO\OneDrive_2_10-3-2025\Parcial 1\Practicas\Practica 1\Practica 1\obj\Debug\Practica 1.csproj.CoreCompileInputs.cache
+C:\Users\starw\OneDrive\Documentos\Proyectos POO\OneDrive_2_10-3-2025\Parcial 1\Practicas\Practica 1\Practica 1\obj\Debug\Practica 1.exe
+C:\Users\starw\OneDrive\Documentos\Proyectos POO\OneDrive_2_10-3-2025\Parcial 1\Practicas\Practica 1\Practica 1\obj\Debug\Practica 1.pdb
+C:\Users\starw\OneDrive\Documentos\Proyectos POO\OneDrive_2_10-3-2025\Parcial 1\Practicas\Practica 1\Practica 1\bin\Debug\Firma\firma.exe
