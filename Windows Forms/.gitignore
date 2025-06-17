@@ -1,0 +1,15 @@
+# Visual Studio
+.vs/
+bin/
+obj/
+*.user
+*.suo
+
+# Compilados
+*.exe
+*.dll
+*.pdb
+
+# Archivos temporales
+*.cache
+*.log
