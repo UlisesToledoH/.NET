@@ -1,0 +1,4 @@
+private void Cerrar(object sender, EventArgs e)
+{
+    Close();
+}

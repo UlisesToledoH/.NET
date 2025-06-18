@@ -1,0 +1,106 @@
+private void firmaToolStripMenuItem_Click(object sender, EventArgs e)
+{
+    System.Diagnostics.Process.Start("FIRMA.exe");
+}
+
+private void salirToolStripMenuItem_Click(object sender, EventArgs e)
+{
+    Close();
+}
+
+private void btoper_Click(object sender, EventArgs e)
+{
+    double x, r;
+    x = double.Parse(tBx.Text);
+    r = Math.Exp(x);
+    lbsalida.Items.Add(r);
+}
+
+private void Sen(object sender, EventArgs e)
+{
+    double x, r;
+    x = double.Parse(tBx.Text);
+    r = Math.Sin(x);
+    lbsalida.Items.Add(r);
+}
+
+private void Cos(object sender, EventArgs e)
+{
+    double x, r;
+    x = double.Parse(tBx.Text);
+    r = Math.Cos(x);
+    lbsalida.Items.Add(r);
+}
+
+private void Tan(object sender, EventArgs e)
+{
+    double x, r;
+    x = double.Parse(tBx.Text);
+    r = Math.Tan(x);
+    lbsalida.Items.Add(r);
+}
+
+private void Asin(object sender, EventArgs e)
+{
+    double x, r;
+    x = double.Parse(tBx.Text);
+    r = Math.Asin(x);
+    lbsalida.Items.Add(r);
+}
+
+private void Acos(object sender, EventArgs e)
+{
+    double x, r;
+    x = double.Parse(tBx.Text);
+    r = Math.Acos(x);
+    lbsalida.Items.Add(r);
+}
+
+private void Atan(object sender, EventArgs e)
+{
+    double x, r;
+    x = double.Parse(tBx.Text);
+    r = Math.Atan(x);
+    lbsalida.Items.Add(r);
+}
+
+private void Sinh(object sender, EventArgs e)
+{
+    double x, r;
+    x = double.Parse(tBx.Text);
+    r = Math.Sinh(x);
+    lbsalida.Items.Add(r);
+}
+
+private void Cosh(object sender, EventArgs e)
+{
+    double x, r;
+    x = double.Parse(tBx.Text);
+    r = Math.Cosh(x);
+    lbsalida.Items.Add(r);
+}
+
+private void Tanh(object sender, EventArgs e)
+{
+    double x, r;
+    x = double.Parse(tBx.Text);
+    r = Math.Tanh(x);
+    lbsalida.Items.Add(r);
+}
+
+private void Logaritmo(object sender, EventArgs e)
+{
+    double x, r;
+    x = double.Parse(tBx.Text);
+    r = Math.Log(x);
+    lbsalida.Items.Add(r);
+}
+
+private void Exponente(object sender, EventArgs e)
+{
+    double x, r,y;
+    x = double.Parse(tBx.Text);
+    y= double.Parse(textBox1.Text);
+    r = Math.Pow(x,y);
+    lbsalida.Items.Add(r);
+}

@@ -1,0 +1,66 @@
+static void Main(string[] args)
+{
+    int m, n;
+    double s;
+    Console.WriteLine("Valor de m : ");
+    m = int.Parse(Console.ReadLine());
+    Console.WriteLine("Valor de n : ");
+    n = int.Parse(Console.ReadLine());
+    Matrices A = new Matrices(m, n);
+    A.Leer();
+    A.Pon();
+    s = A.SumaElem();
+    Console.WriteLine("s= " + s);
+    Console.ReadKey();
+}
+
+internal class Matrices
+{
+    private int m, n;
+    private double[ , ]elem;
+    public Matrices(int m, int n)
+    {
+        this.m = m;
+        this.n = n;
+        this.elem = new double[m,n];
+    }
+
+    public void Leer()
+    {
+        for (int i = 0; i < m; i++)
+        {
+            for(int j = 0; j < n; j++)
+            {
+                Console.WriteLine($"Digite el valor [{i},{j}]: ");
+                elem[i,j]=double.Parse(Console.ReadLine());
+            }
+        }
+    }
+    public void Pon()
+    {
+        for (int i = 0; i < m; i++)
+        {
+            for (int j = 0; j < n; j++)
+            {
+                Console.Write(elem[i, j] + " ");
+            }
+            Console.WriteLine();
+        }
+        Console.ReadLine();
+    }
+    public double SumaElem()//Suma de elementos de la matriz
+    {
+        double s = 0;
+        for (int i = 0; i < m; i++)
+        {
+            for (int j = 0; j < n; j++)
+            {
+                s = s + elem[i, j];
+            }
+
+        }
+        return (s);
+    }
+
+    
+}

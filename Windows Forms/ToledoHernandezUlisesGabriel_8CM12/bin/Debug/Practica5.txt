@@ -1,0 +1,17 @@
+private void firmaToolStripMenuItem_Click(object sender, EventArgs e)
+{
+    System.Diagnostics.Process.Start("FIRMA.exe");
+}
+
+private void salirToolStripMenuItem_Click(object sender, EventArgs e)
+{
+    Close();
+}
+
+private void btoper_Click(object sender, EventArgs e)
+{
+    double x, r;
+    x = double.Parse(tBx.Text);
+    r = Math.Exp(x);
+    lbsalida.Items.Add(r);
+}

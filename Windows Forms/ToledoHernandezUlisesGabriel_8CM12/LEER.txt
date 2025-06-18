@@ -1,0 +1,1 @@
+El archivo ejecutable es "EXAMEN_DESCRIPTOR_EJECUTAR.exe"

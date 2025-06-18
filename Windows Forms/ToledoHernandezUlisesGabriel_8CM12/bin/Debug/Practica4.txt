@@ -1,0 +1,11 @@
+ static void Main(string[] args)
+ {
+     Console.WriteLine("tipo int  tamaño: {0} Rango [{1},{2}]\n", sizeof(int), int.MinValue, int.MaxValue);
+     Console.WriteLine("tipo float  tamaño: {0} Rango [{1},{2}]\n", sizeof(float), float.MinValue, float.MaxValue);
+     Console.WriteLine("tipo double  tamaño: {0} Rango [{1},{2}]\n", sizeof(double), double.MinValue, double.MaxValue);
+     Console.WriteLine("tipo int32  tamaño: {0} Rango [{1},{2}]\n", sizeof(uint), uint.MinValue, uint.MaxValue);
+     Console.WriteLine("tipo long  tamaño: {0} Rango [{1},{2}]\n", sizeof(long), long.MinValue, long.MaxValue);
+     Console.WriteLine("tipo ulong  tamaño: {0} Rango [{1},{2}]\n", sizeof(ulong), ulong.MinValue, ulong.MaxValue);
+     Console.ReadLine();
+    
+ }

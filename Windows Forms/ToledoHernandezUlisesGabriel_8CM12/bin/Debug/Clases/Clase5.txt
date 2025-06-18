@@ -1,0 +1,19 @@
+double h = 0.1; // Tamaño del paso
+int n = 10;    // Número de pasos
+double x0 = 0; // Valor inicial de x
+double y0 = 0; // Valor inicial de y
+
+Console.WriteLine("Resolución de la EDO dy/dx = x usando el método de Euler:");
+Console.WriteLine("x\t y");
+
+double x = x0;
+double y = y0;
+
+for (int i = 0; i <= n; i++)
+{
+    Console.WriteLine($"{x}\t {y}");
+    y += h * x; // Método de Euler
+    x += h;
+}
+
+Console.ReadLine();

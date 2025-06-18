@@ -1,0 +1,39 @@
+private void firmaToolStripMenuItem_Click(object sender, EventArgs e)
+{
+    System.Diagnostics.Process.Start("FIRMA.exe");
+}
+
+private void SalirToolStripMenuItem_Click(object sender, EventArgs e)
+{
+    Close();
+}
+
+private void H_Click_1(object sender, EventArgs e)
+{
+    OpenFileDialog arch1 = new OpenFileDialog();
+    arch1.FileName = "Hidrogeno.pdf";
+    PDF1.LoadFile(arch1.FileName);
+    arch1.FileName = "Video_Hidrogeno.mp4";
+    Media1.URL = arch1.FileName;
+    web1.Navigate("../www.google.com/hidrogeno.pdf");
+}
+
+private void Helio_Click(object sender, EventArgs e)
+{
+    OpenFileDialog arch1 = new OpenFileDialog();
+    arch1.FileName = "Helio.pdf";
+    PDF1.LoadFile(arch1.FileName);
+    arch1.FileName = "Video_Helio.mp4";
+    Media1.URL = arch1.FileName;
+    web1.Navigate("../www.google.com/helio.pdf");
+}
+
+private void Mn_Click(object sender, EventArgs e)
+{
+    OpenFileDialog arch1 = new OpenFileDialog();
+    arch1.FileName = "Manganeso.pdf";
+    PDF1.LoadFile(arch1.FileName);
+    arch1.FileName = "Video_Manganeso.mp4";
+    Media1.URL = arch1.FileName;
+    web1.Navigate("../www.google.com/Manganeso.pdf");
+}

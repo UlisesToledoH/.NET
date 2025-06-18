@@ -1,0 +1,129 @@
+Operaciones obj1 = new Operaciones();
+double X, Y;
+public Form1()
+{
+    InitializeComponent();
+}
+
+private void firmaToolStripMenuItem_Click(object sender, EventArgs e)
+{
+    System.Diagnostics.Process.Start("FIRMA.exe");
+}
+
+private void salirToolStripMenuItem_Click(object sender, EventArgs e)
+{
+    Close();
+}
+
+private void btoper_Click(object sender, EventArgs e)
+{
+    X=double.Parse(tBx.Text);
+    lbsalida.Items.Add(obj1.exponencial(X));
+}
+
+public void Sen_Click(object sender, EventArgs e)
+{
+    
+    X = double.Parse(tBx.Text);
+    lbsalida.Items.Add(obj1.Sen(X));
+}
+
+public void Cos_Click(object sender, EventArgs e)
+{
+    X = double.Parse(tBx.Text);
+    lbsalida.Items.Add(obj1.Cos(X));
+}
+
+public void Tan_Click(object sender, EventArgs e)
+{
+    X = double.Parse(tBx.Text);
+    lbsalida.Items.Add(obj1.tan(X));
+}
+
+public void Asin_Click(object sender, EventArgs e)
+{
+    
+    X = double.Parse(tBx.Text);
+    lbsalida.Items.Add(obj1.asen(X));
+}
+
+public void Acos_Click(object sender, EventArgs e)
+{
+    X = double.Parse(tBx.Text);
+    lbsalida.Items.Add(obj1.acos(X));
+}
+
+private void Atan_Click(object sender, EventArgs e)
+{
+    
+    X = double.Parse(tBx.Text);
+    lbsalida.Items.Add(obj1.atan(X));
+}
+
+private void Sinh_Click(object sender, EventArgs e)
+{
+    X = double.Parse(tBx.Text);
+    lbsalida.Items.Add(obj1.sinh(X));
+}
+
+private void Cosh_Click(object sender, EventArgs e)
+{
+    X = double.Parse(tBx.Text); 
+    lbsalida.Items.Add(obj1.cosh(X));
+}
+
+private void Tanh_Click(object sender, EventArgs e)
+{
+    
+    X = double.Parse(tBx.Text);
+    lbsalida.Items.Add(obj1.tanh(X));
+}
+
+private void Log_Click(object sender, EventArgs e)
+{
+    X = double.Parse(tBx.Text);
+    lbsalida.Items.Add(obj1.ln(X));
+}
+
+private void Potencia_Click(object sender, EventArgs e)
+{
+    X = double.Parse(tBx.Text);
+    Y= double.Parse(textBox1.Text);
+    lbsalida.Items.Add(obj1.potencia(X,Y));
+}
+
+private void Suma_Click(object sender, EventArgs e)
+{
+    X = double.Parse(tBx.Text);
+    Y = double.Parse(textBox1.Text);
+    lbsalida.Items.Add(obj1.suma(X,Y));
+}
+
+private void Resta_Click(object sender, EventArgs e)
+{
+    
+    X = double.Parse(tBx.Text);
+    Y = double.Parse(textBox1.Text);
+    lbsalida.Items.Add(obj1.resta(X,Y));
+}
+
+private void Multiplicacion_Click(object sender, EventArgs e)
+{
+    X = double.Parse(tBx.Text);
+    Y = double.Parse(textBox1.Text);
+    lbsalida.Items.Add(obj1.mult(X,Y));
+}
+
+private void Division_Click(object sender, EventArgs e)
+{
+    X = double.Parse(tBx.Text);
+    Y = double.Parse(textBox1.Text);
+    lbsalida.Items.Add(obj1.div(X, Y));
+}
+
+private void Residuo_Click(object sender, EventArgs e)
+{
+    X = double.Parse(tBx.Text);
+    Y = double.Parse(textBox1.Text);
+    lbsalida.Items.Add(obj1.residuo(X, Y));
+}

@@ -1,0 +1,71 @@
+private void label8_Click(object sender, EventArgs e)
+{
+    Image imagen = Image.FromFile("Edu.png");
+
+    // Asigna la imagen al control PictureBox
+    pictureBox1.Image = imagen;
+}
+
+private void label1_Click(object sender, EventArgs e)
+{
+    Image imagen = Image.FromFile("Uli.png");
+
+    // Asigna la imagen al control PictureBox
+    pictureBox1.Image = imagen;
+}
+
+private void label2_Click(object sender, EventArgs e)
+{
+    Image imagen = Image.FromFile("Carlos.png");
+
+    // Asigna la imagen al control PictureBox
+    pictureBox1.Image = imagen;
+}
+
+private void label3_Click(object sender, EventArgs e)
+{
+    Image imagen = Image.FromFile("Frida.png");
+
+    // Asigna la imagen al control PictureBox
+    pictureBox1.Image = imagen;
+}
+
+private void label4_Click(object sender, EventArgs e)
+{
+    Image imagen = Image.FromFile("Anahi.png");
+
+    // Asigna la imagen al control PictureBox
+    pictureBox1.Image = imagen;
+}
+
+private void label5_Click(object sender, EventArgs e)
+{
+    Image imagen = Image.FromFile("Daniel.png");
+
+    // Asigna la imagen al control PictureBox
+    pictureBox1.Image = imagen;
+}
+
+private void label6_Click(object sender, EventArgs e)
+{
+    Image imagen = Image.FromFile("Yair.png");
+
+    // Asigna la imagen al control PictureBox
+    pictureBox1.Image = imagen;
+}
+
+private void label7_Click(object sender, EventArgs e)
+{
+    Image imagen = Image.FromFile("Alonso.png");
+
+    // Asigna la imagen al control PictureBox
+    pictureBox1.Image = imagen;
+}
+
+private void label9_Click(object sender, EventArgs e)
+{
+    Image imagen = Image.FromFile("Yael.png");
+
+    // Asigna la imagen al control PictureBox
+    pictureBox1.Image = imagen;
+}

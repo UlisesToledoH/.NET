@@ -1,0 +1,28 @@
+private void Integral_click(object sender, EventArgs e)
+{
+    double Xo, Xn, Vi;
+    int n;
+    n = 10000;
+    Xo=double.Parse(tbx1.Text);
+    Xn=double.Parse(tbx2.Text);
+    Integrales integral=new Integrales(Xo,Xn);
+    Vi = integral.Trapecio(n);
+    listBox1.Items.Add(Vi);
+    
+
+}
+
+private void listBox1_SelectedIndexChanged(object sender, EventArgs e)
+{
+
+}
+
+private void salirToolStripMenuItem_Click(object sender, EventArgs e)
+{
+    Close();
+}
+
+private void firmaToolStripMenuItem_Click(object sender, EventArgs e)
+{
+    System.Diagnostics.Process.Start("FIRMA.exe");
+}

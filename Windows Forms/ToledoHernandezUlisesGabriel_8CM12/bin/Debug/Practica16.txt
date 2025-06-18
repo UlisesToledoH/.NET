@@ -1,0 +1,18 @@
+public double fu(double x, string fx)
+{
+    double r;
+    ExpressionParser p1=new ExpressionParser();
+    p1.Values.Add("x", x);
+    r = p1.Parse(fx);
+    return (r);
+}
+
+private void fx_Click(object sender, EventArgs e)
+{
+    double x, r;
+    string fx;
+    x = double.Parse(tBx.Text);
+    fx = tBfx.Text;
+    r = fu(x, fx);
+    lbsalida.Items.Add(r);
+}

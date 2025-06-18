@@ -1,0 +1,39 @@
+//f(x,y) Código
+public double fu(double x, string fx)
+{
+    double r;
+    ExpressionParser p1=new ExpressionParser();
+    p1.Values.Add("x", x);
+    r = p1.Parse(fx);
+    return (r);
+}
+
+private void fx_Click(object sender, EventArgs e)
+{
+    double x, r,y;
+    string fx;
+    x = double.Parse(tBx.Text);
+    fx = tBfx.Text;
+    r = fu(x, fx);
+    lbsalida.Items.Add(r);
+}
+public double fu2(double x, string fxy,double y)
+{
+    double r;
+    ExpressionParser op2 = new ExpressionParser();
+    op2.Values.Add("x", x);
+    op2.Values.Add("y", y);
+    r = op2.Parse(fxy);
+    return (r);
+}
+
+private void btfxy_Click(object sender, EventArgs e)
+{
+    double x, r,y;
+    string fxy;
+    x = double.Parse(tBx.Text);
+    y= double.Parse(textBox1.Text);
+    fxy = tbfxy.Text;
+    r = fu2(x, fxy,y);
+    lbsalida.Items.Add(r);
+}

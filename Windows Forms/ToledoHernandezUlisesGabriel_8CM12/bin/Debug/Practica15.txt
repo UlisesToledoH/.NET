@@ -1,0 +1,55 @@
+internal class Matrices
+{
+    private int m, n;
+    public double[,] elem;
+
+    private double[,] Elem
+    {
+        set { elem = value; }
+        get { return (elem); }
+    }
+    public double Matrices(int m,int n) { 
+        this.m = m;
+        this.n = n;
+        Elem=new double[m,n];
+    }
+
+ public partial class Form1 : Form
+ { int m, n;
+     Matrices A;
+     public Form1()
+     {
+         InitializeComponent();
+     }
+
+     private void bttamaño_Click(object sender, EventArgs e)
+     {
+         
+          m=int.Parse(Filas.Text);
+          n=int.Parse(Columnas.Text);
+         dGmat.RowCount = m;
+         dGmat.ColumnCount = n;
+          A = new Matrices( m,n);
+     }
+
+     private void firmaToolStripMenuItem_Click(object sender, EventArgs e)
+     {
+         System.Diagnostics.Process.Start("FIRMA.exe");
+     }
+
+     private void salirToolStripMenuItem_Click(object sender, EventArgs e)
+     {
+         Close();
+     }
+
+     private void Leer_Click(object sender, EventArgs e)
+     {
+         for (int i = 0; i < m; i++)
+         {
+             for (int j = 0; j < n; j++)
+             {
+                 A.elem[i, j] = double.Parse(dGmat.Pow[i].Cell.value.string());
+             }
+         }
+     }
+ }
