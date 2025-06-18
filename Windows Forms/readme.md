@@ -1,1 +1,1 @@
-![Funcionamiento]
+Esta carpeta contiene una colección de proyectos desarrollados con **Windows Forms**, una tecnología de .NET para construir aplicaciones de escritorio en Windows con interfaces gráficas tradicionales.
