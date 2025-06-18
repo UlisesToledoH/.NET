@@ -1,0 +1,30 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Clase7
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Ganancia de antena");
+            Console.WriteLine("--------------------------------");
+
+            Console.Write("Ingrese la eficiencia de la antena (como un decimal, por ejemplo 0.7 para 70%): ");
+            double eficiencia = double.Parse(Console.ReadLine());
+
+            Console.Write("Ingrese la ganancia directiva de la antena en decibelios (dBi): ");
+            double gananciaDirectiva = double.Parse(Console.ReadLine());
+
+            // La ganancia total de la antena se calcula como el producto de su eficiencia y su ganancia directiva.
+            double gananciaTotal = eficiencia * Math.Pow(10, gananciaDirectiva / 10);
+
+            Console.WriteLine($"La ganancia total de la antena es de {gananciaTotal} veces la potencia de una antena isotrópica.");
+
+            Console.ReadLine();
+        }
+    }
+}

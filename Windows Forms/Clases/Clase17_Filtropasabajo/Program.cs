@@ -1,0 +1,31 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Clase17_Filtropasabajo
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Calculadora de Valor de Condensador en un Filtro Pasa Bajo");
+
+            // Solicitar al usuario la frecuencia de corte en Hertz (Hz)
+            Console.Write("Ingrese la frecuencia de corte en Hertz (Hz): ");
+            double frecuenciaCorte = double.Parse(Console.ReadLine());
+
+            // Solicitar al usuario la resistencia en ohmios (Ω)
+            Console.Write("Ingrese la resistencia en ohmios (Ω): ");
+            double resistencia = double.Parse(Console.ReadLine());
+
+            // Calcular el valor del condensador en faradios (F)
+            double valorCondensador = 1.0 / (2 * Math.PI * frecuenciaCorte * resistencia);
+
+            Console.WriteLine($"El valor del condensador necesario es aproximadamente {valorCondensador} faradios.");
+
+            Console.ReadLine();
+        }
+    }
+}
