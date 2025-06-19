@@ -1,0 +1,46 @@
+﻿<Window x:Class="Practica19.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Practica19"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Rectangle Width="10" Height="10" Grid.Row="0" Grid.Column="0" Fill="Red"/>
+        <TextBlock Text="ESIME" Width="60" Height="30" Grid.Row="0" Grid.Column="1"/>
+        <Image Source="Mifoto.png" Width="100" Height="100"  Grid.Row="1" Grid.Column="0"/>
+        <Button Content="ICE" Width="100" Height="50" Grid.Row="1" Grid.Column="1" Click="bt_Click"/>
+        <Grid Grid.Row="1" Grid.Column="2">
+            <Grid.RowDefinitions>
+                <RowDefinition/>
+                <RowDefinition/>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+            <Button Content="IPN" Width="100" Height="50" Grid.Row="0" Grid.Column="1" Click="bt_click2"/>
+            <Grid Grid.Row="1" Grid.Column="2">
+                <Grid.RowDefinitions>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition/>
+                    <ColumnDefinition/>
+                </Grid.ColumnDefinitions>
+                <Ellipse Width="50" Height="20" Grid.Row="1" Grid.Column="0" Fill="Black" />
+            </Grid>
+        </Grid>
+    </Grid>
+</Window>

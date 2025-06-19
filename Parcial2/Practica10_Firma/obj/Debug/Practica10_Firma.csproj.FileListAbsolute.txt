@@ -1,0 +1,15 @@
+D:\Proyectos de Visual\PRAC 2DO PARCIAL\Practica10_Firma\bin\Debug\Practica10_Firma.exe.config
+D:\Proyectos de Visual\PRAC 2DO PARCIAL\Practica10_Firma\bin\Debug\Practica10_Firma.exe
+D:\Proyectos de Visual\PRAC 2DO PARCIAL\Practica10_Firma\bin\Debug\Practica10_Firma.pdb
+D:\Proyectos de Visual\PRAC 2DO PARCIAL\Practica10_Firma\obj\Debug\Practica10_Firma.csproj.AssemblyReference.cache
+D:\Proyectos de Visual\PRAC 2DO PARCIAL\Practica10_Firma\obj\Debug\MainWindow.g.cs
+D:\Proyectos de Visual\PRAC 2DO PARCIAL\Practica10_Firma\obj\Debug\App.g.cs
+D:\Proyectos de Visual\PRAC 2DO PARCIAL\Practica10_Firma\obj\Debug\Practica10_Firma_MarkupCompile.cache
+D:\Proyectos de Visual\PRAC 2DO PARCIAL\Practica10_Firma\obj\Debug\Practica10_Firma_MarkupCompile.lref
+D:\Proyectos de Visual\PRAC 2DO PARCIAL\Practica10_Firma\obj\Debug\MainWindow.baml
+D:\Proyectos de Visual\PRAC 2DO PARCIAL\Practica10_Firma\obj\Debug\Practica10_Firma.g.resources
+D:\Proyectos de Visual\PRAC 2DO PARCIAL\Practica10_Firma\obj\Debug\Practica10_Firma.Properties.Resources.resources
+D:\Proyectos de Visual\PRAC 2DO PARCIAL\Practica10_Firma\obj\Debug\Practica10_Firma.csproj.GenerateResource.cache
+D:\Proyectos de Visual\PRAC 2DO PARCIAL\Practica10_Firma\obj\Debug\Practica10_Firma.csproj.CoreCompileInputs.cache
+D:\Proyectos de Visual\PRAC 2DO PARCIAL\Practica10_Firma\obj\Debug\Practica10_Firma.exe
+D:\Proyectos de Visual\PRAC 2DO PARCIAL\Practica10_Firma\obj\Debug\Practica10_Firma.pdb

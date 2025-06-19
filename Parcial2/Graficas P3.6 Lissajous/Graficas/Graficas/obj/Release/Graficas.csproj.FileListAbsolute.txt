@@ -1,0 +1,12 @@
+C:\Users\starw\OneDrive\Documentos\Proyectos POO\OneDrive_2_10-3-2025\RESPALDO PRACITCAS 2\Graficas P3.6 Lissajous\Graficas\Graficas\bin\Release\Graficas.exe.config
+C:\Users\starw\OneDrive\Documentos\Proyectos POO\OneDrive_2_10-3-2025\RESPALDO PRACITCAS 2\Graficas P3.6 Lissajous\Graficas\Graficas\bin\Release\Graficas.exe
+C:\Users\starw\OneDrive\Documentos\Proyectos POO\OneDrive_2_10-3-2025\RESPALDO PRACITCAS 2\Graficas P3.6 Lissajous\Graficas\Graficas\bin\Release\Graficas.pdb
+C:\Users\starw\OneDrive\Documentos\Proyectos POO\OneDrive_2_10-3-2025\RESPALDO PRACITCAS 2\Graficas P3.6 Lissajous\Graficas\Graficas\bin\Release\info.lundin.math.dll
+C:\Users\starw\OneDrive\Documentos\Proyectos POO\OneDrive_2_10-3-2025\RESPALDO PRACITCAS 2\Graficas P3.6 Lissajous\Graficas\Graficas\obj\Release\Graficas.csproj.AssemblyReference.cache
+C:\Users\starw\OneDrive\Documentos\Proyectos POO\OneDrive_2_10-3-2025\RESPALDO PRACITCAS 2\Graficas P3.6 Lissajous\Graficas\Graficas\obj\Release\Graficas.Form1.resources
+C:\Users\starw\OneDrive\Documentos\Proyectos POO\OneDrive_2_10-3-2025\RESPALDO PRACITCAS 2\Graficas P3.6 Lissajous\Graficas\Graficas\obj\Release\Graficas.Properties.Resources.resources
+C:\Users\starw\OneDrive\Documentos\Proyectos POO\OneDrive_2_10-3-2025\RESPALDO PRACITCAS 2\Graficas P3.6 Lissajous\Graficas\Graficas\obj\Release\Graficas.csproj.GenerateResource.cache
+C:\Users\starw\OneDrive\Documentos\Proyectos POO\OneDrive_2_10-3-2025\RESPALDO PRACITCAS 2\Graficas P3.6 Lissajous\Graficas\Graficas\obj\Release\Graficas.csproj.CoreCompileInputs.cache
+C:\Users\starw\OneDrive\Documentos\Proyectos POO\OneDrive_2_10-3-2025\RESPALDO PRACITCAS 2\Graficas P3.6 Lissajous\Graficas\Graficas\obj\Release\Graficas.csproj.Up2Date
+C:\Users\starw\OneDrive\Documentos\Proyectos POO\OneDrive_2_10-3-2025\RESPALDO PRACITCAS 2\Graficas P3.6 Lissajous\Graficas\Graficas\obj\Release\Graficas.exe
+C:\Users\starw\OneDrive\Documentos\Proyectos POO\OneDrive_2_10-3-2025\RESPALDO PRACITCAS 2\Graficas P3.6 Lissajous\Graficas\Graficas\obj\Release\Graficas.pdb

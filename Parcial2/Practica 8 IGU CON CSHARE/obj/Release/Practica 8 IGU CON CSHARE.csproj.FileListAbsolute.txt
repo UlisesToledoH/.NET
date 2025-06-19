@@ -1,0 +1,10 @@
+C:\Users\starw\OneDrive\Documentos\Proyectos POO\OneDrive_2_10-3-2025\RESPALDO PRACITCAS 2\Practica 8 IGU CON CSHARE\bin\Release\Practica 8 IGU CON CSHARE.exe.config
+C:\Users\starw\OneDrive\Documentos\Proyectos POO\OneDrive_2_10-3-2025\RESPALDO PRACITCAS 2\Practica 8 IGU CON CSHARE\bin\Release\Practica 8 IGU CON CSHARE.exe
+C:\Users\starw\OneDrive\Documentos\Proyectos POO\OneDrive_2_10-3-2025\RESPALDO PRACITCAS 2\Practica 8 IGU CON CSHARE\bin\Release\Practica 8 IGU CON CSHARE.pdb
+C:\Users\starw\OneDrive\Documentos\Proyectos POO\OneDrive_2_10-3-2025\RESPALDO PRACITCAS 2\Practica 8 IGU CON CSHARE\obj\Release\Practica 8 IGU CON CSHARE.csproj.AssemblyReference.cache
+C:\Users\starw\OneDrive\Documentos\Proyectos POO\OneDrive_2_10-3-2025\RESPALDO PRACITCAS 2\Practica 8 IGU CON CSHARE\obj\Release\Practica_8_IGU_CON_CSHARE.Form1.resources
+C:\Users\starw\OneDrive\Documentos\Proyectos POO\OneDrive_2_10-3-2025\RESPALDO PRACITCAS 2\Practica 8 IGU CON CSHARE\obj\Release\Practica_8_IGU_CON_CSHARE.Properties.Resources.resources
+C:\Users\starw\OneDrive\Documentos\Proyectos POO\OneDrive_2_10-3-2025\RESPALDO PRACITCAS 2\Practica 8 IGU CON CSHARE\obj\Release\Practica 8 IGU CON CSHARE.csproj.GenerateResource.cache
+C:\Users\starw\OneDrive\Documentos\Proyectos POO\OneDrive_2_10-3-2025\RESPALDO PRACITCAS 2\Practica 8 IGU CON CSHARE\obj\Release\Practica 8 IGU CON CSHARE.csproj.CoreCompileInputs.cache
+C:\Users\starw\OneDrive\Documentos\Proyectos POO\OneDrive_2_10-3-2025\RESPALDO PRACITCAS 2\Practica 8 IGU CON CSHARE\obj\Release\Practica 8 IGU CON CSHARE.exe
+C:\Users\starw\OneDrive\Documentos\Proyectos POO\OneDrive_2_10-3-2025\RESPALDO PRACITCAS 2\Practica 8 IGU CON CSHARE\obj\Release\Practica 8 IGU CON CSHARE.pdb

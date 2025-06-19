@@ -1,0 +1,15 @@
+D:\Proyectos de Visual\PRAC 2DO PARCIAL\Practica9 WPF\bin\Debug\Practica9 WPF.exe.config
+D:\Proyectos de Visual\PRAC 2DO PARCIAL\Practica9 WPF\bin\Debug\Practica9 WPF.exe
+D:\Proyectos de Visual\PRAC 2DO PARCIAL\Practica9 WPF\bin\Debug\Practica9 WPF.pdb
+D:\Proyectos de Visual\PRAC 2DO PARCIAL\Practica9 WPF\obj\Debug\Practica9 WPF.csproj.AssemblyReference.cache
+D:\Proyectos de Visual\PRAC 2DO PARCIAL\Practica9 WPF\obj\Debug\MainWindow.g.cs
+D:\Proyectos de Visual\PRAC 2DO PARCIAL\Practica9 WPF\obj\Debug\App.g.cs
+D:\Proyectos de Visual\PRAC 2DO PARCIAL\Practica9 WPF\obj\Debug\Practica9 WPF_MarkupCompile.cache
+D:\Proyectos de Visual\PRAC 2DO PARCIAL\Practica9 WPF\obj\Debug\Practica9 WPF_MarkupCompile.lref
+D:\Proyectos de Visual\PRAC 2DO PARCIAL\Practica9 WPF\obj\Debug\MainWindow.baml
+D:\Proyectos de Visual\PRAC 2DO PARCIAL\Practica9 WPF\obj\Debug\Practica9 WPF.g.resources
+D:\Proyectos de Visual\PRAC 2DO PARCIAL\Practica9 WPF\obj\Debug\Practica9_WPF.Properties.Resources.resources
+D:\Proyectos de Visual\PRAC 2DO PARCIAL\Practica9 WPF\obj\Debug\Practica9 WPF.csproj.GenerateResource.cache
+D:\Proyectos de Visual\PRAC 2DO PARCIAL\Practica9 WPF\obj\Debug\Practica9 WPF.csproj.CoreCompileInputs.cache
+D:\Proyectos de Visual\PRAC 2DO PARCIAL\Practica9 WPF\obj\Debug\Practica9 WPF.exe
+D:\Proyectos de Visual\PRAC 2DO PARCIAL\Practica9 WPF\obj\Debug\Practica9 WPF.pdb

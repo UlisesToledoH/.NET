@@ -1,0 +1,20 @@
+D:\Proyectos de Visual\PRAC 2DO PARCIAL\PRAC 2DO PARCIAL\Practica 8 IGU CON CSHARE\bin\Debug\Practica 8 IGU CON CSHARE.exe.config
+D:\Proyectos de Visual\PRAC 2DO PARCIAL\PRAC 2DO PARCIAL\Practica 8 IGU CON CSHARE\bin\Debug\Practica 8 IGU CON CSHARE.exe
+D:\Proyectos de Visual\PRAC 2DO PARCIAL\PRAC 2DO PARCIAL\Practica 8 IGU CON CSHARE\bin\Debug\Practica 8 IGU CON CSHARE.pdb
+D:\Proyectos de Visual\PRAC 2DO PARCIAL\PRAC 2DO PARCIAL\Practica 8 IGU CON CSHARE\obj\Debug\Practica 8 IGU CON CSHARE.csproj.AssemblyReference.cache
+D:\Proyectos de Visual\PRAC 2DO PARCIAL\PRAC 2DO PARCIAL\Practica 8 IGU CON CSHARE\obj\Debug\Practica_8_IGU_CON_CSHARE.Form1.resources
+D:\Proyectos de Visual\PRAC 2DO PARCIAL\PRAC 2DO PARCIAL\Practica 8 IGU CON CSHARE\obj\Debug\Practica_8_IGU_CON_CSHARE.Properties.Resources.resources
+D:\Proyectos de Visual\PRAC 2DO PARCIAL\PRAC 2DO PARCIAL\Practica 8 IGU CON CSHARE\obj\Debug\Practica 8 IGU CON CSHARE.csproj.GenerateResource.cache
+D:\Proyectos de Visual\PRAC 2DO PARCIAL\PRAC 2DO PARCIAL\Practica 8 IGU CON CSHARE\obj\Debug\Practica 8 IGU CON CSHARE.csproj.CoreCompileInputs.cache
+D:\Proyectos de Visual\PRAC 2DO PARCIAL\PRAC 2DO PARCIAL\Practica 8 IGU CON CSHARE\obj\Debug\Practica 8 IGU CON CSHARE.exe
+D:\Proyectos de Visual\PRAC 2DO PARCIAL\PRAC 2DO PARCIAL\Practica 8 IGU CON CSHARE\obj\Debug\Practica 8 IGU CON CSHARE.pdb
+D:\Proyectos de Visual\PRAC 2DO PARCIAL\Practica 8 IGU CON CSHARE\bin\Debug\Practica 8 IGU CON CSHARE.exe.config
+D:\Proyectos de Visual\PRAC 2DO PARCIAL\Practica 8 IGU CON CSHARE\bin\Debug\Practica 8 IGU CON CSHARE.exe
+D:\Proyectos de Visual\PRAC 2DO PARCIAL\Practica 8 IGU CON CSHARE\bin\Debug\Practica 8 IGU CON CSHARE.pdb
+D:\Proyectos de Visual\PRAC 2DO PARCIAL\Practica 8 IGU CON CSHARE\obj\Debug\Practica 8 IGU CON CSHARE.csproj.AssemblyReference.cache
+D:\Proyectos de Visual\PRAC 2DO PARCIAL\Practica 8 IGU CON CSHARE\obj\Debug\Practica_8_IGU_CON_CSHARE.Form1.resources
+D:\Proyectos de Visual\PRAC 2DO PARCIAL\Practica 8 IGU CON CSHARE\obj\Debug\Practica_8_IGU_CON_CSHARE.Properties.Resources.resources
+D:\Proyectos de Visual\PRAC 2DO PARCIAL\Practica 8 IGU CON CSHARE\obj\Debug\Practica 8 IGU CON CSHARE.csproj.GenerateResource.cache
+D:\Proyectos de Visual\PRAC 2DO PARCIAL\Practica 8 IGU CON CSHARE\obj\Debug\Practica 8 IGU CON CSHARE.csproj.CoreCompileInputs.cache
+D:\Proyectos de Visual\PRAC 2DO PARCIAL\Practica 8 IGU CON CSHARE\obj\Debug\Practica 8 IGU CON CSHARE.exe
+D:\Proyectos de Visual\PRAC 2DO PARCIAL\Practica 8 IGU CON CSHARE\obj\Debug\Practica 8 IGU CON CSHARE.pdb

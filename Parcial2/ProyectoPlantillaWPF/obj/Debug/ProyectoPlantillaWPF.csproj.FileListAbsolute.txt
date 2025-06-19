@@ -1,0 +1,15 @@
+D:\Proyectos de Visual\PRAC 2DO PARCIAL\ProyectoPlantillaWPF\bin\Debug\ProyectoPlantillaWPF.exe.config
+D:\Proyectos de Visual\PRAC 2DO PARCIAL\ProyectoPlantillaWPF\bin\Debug\ProyectoPlantillaWPF.exe
+D:\Proyectos de Visual\PRAC 2DO PARCIAL\ProyectoPlantillaWPF\bin\Debug\ProyectoPlantillaWPF.pdb
+D:\Proyectos de Visual\PRAC 2DO PARCIAL\ProyectoPlantillaWPF\obj\Debug\ProyectoPlantillaWPF.csproj.AssemblyReference.cache
+D:\Proyectos de Visual\PRAC 2DO PARCIAL\ProyectoPlantillaWPF\obj\Debug\MainWindow.g.cs
+D:\Proyectos de Visual\PRAC 2DO PARCIAL\ProyectoPlantillaWPF\obj\Debug\App.g.cs
+D:\Proyectos de Visual\PRAC 2DO PARCIAL\ProyectoPlantillaWPF\obj\Debug\ProyectoPlantillaWPF_MarkupCompile.cache
+D:\Proyectos de Visual\PRAC 2DO PARCIAL\ProyectoPlantillaWPF\obj\Debug\ProyectoPlantillaWPF_MarkupCompile.lref
+D:\Proyectos de Visual\PRAC 2DO PARCIAL\ProyectoPlantillaWPF\obj\Debug\MainWindow.baml
+D:\Proyectos de Visual\PRAC 2DO PARCIAL\ProyectoPlantillaWPF\obj\Debug\ProyectoPlantillaWPF.g.resources
+D:\Proyectos de Visual\PRAC 2DO PARCIAL\ProyectoPlantillaWPF\obj\Debug\ProyectoPlantillaWPF.Properties.Resources.resources
+D:\Proyectos de Visual\PRAC 2DO PARCIAL\ProyectoPlantillaWPF\obj\Debug\ProyectoPlantillaWPF.csproj.GenerateResource.cache
+D:\Proyectos de Visual\PRAC 2DO PARCIAL\ProyectoPlantillaWPF\obj\Debug\ProyectoPlantillaWPF.csproj.CoreCompileInputs.cache
+D:\Proyectos de Visual\PRAC 2DO PARCIAL\ProyectoPlantillaWPF\obj\Debug\ProyectoPlantillaWPF.exe
+D:\Proyectos de Visual\PRAC 2DO PARCIAL\ProyectoPlantillaWPF\obj\Debug\ProyectoPlantillaWPF.pdb

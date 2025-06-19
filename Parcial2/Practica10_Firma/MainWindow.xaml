@@ -1,0 +1,73 @@
+﻿<Window x:Class="Practica10_Firma.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Practica10_Firma"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid Background="#FF727272">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="401*"/>
+            <ColumnDefinition Width="399*"/>
+        </Grid.ColumnDefinitions>
+        <StackPanel Margin="279,16,269,105" Grid.ColumnSpan="2" RenderTransformOrigin="0.481,0.481">
+            <StackPanel.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="White" Offset="0.38"/>
+                    <GradientStop Color="#FF671010" Offset="1"/>
+                </LinearGradientBrush>
+            </StackPanel.Background>
+            <Canvas Height="313">
+                <Image Height="112" Canvas.Left="77" Canvas.Top="10" Width="98" Source="/Mifoto.png" HorizontalAlignment="Center" VerticalAlignment="Center" Stretch="Fill"/>
+            </Canvas>
+        </StackPanel>
+        <StackPanel Margin="0,21,15,100" RenderTransformOrigin="0.5,0.5" Grid.Column="1" HorizontalAlignment="Right" Width="254">
+            <StackPanel.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="White" Offset="0.38"/>
+                    <GradientStop Color="#FF671010" Offset="1"/>
+                </LinearGradientBrush>
+            </StackPanel.Background>
+            <StackPanel.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform AngleY="19.537"/>
+                    <RotateTransform/>
+                    <TranslateTransform Y="40.076"/>
+                </TransformGroup>
+            </StackPanel.RenderTransform>
+            <Canvas Height="296">
+                <Image Height="120" Canvas.Left="87" Canvas.Top="-2" Width="126" Source="/Esimelogo.png" HorizontalAlignment="Left"/>
+                <Label Content="Escuela Superior de Ingeniería &#xD;&#xA;Mecánica y Eléctrica&#xD;&#xA;&#xD;&#xA;Ingeniería en Comunicaciones&#xD;&#xA;y Electrónica&#xA;" Height="138" Canvas.Left="17" Canvas.Top="128" Width="233" HorizontalAlignment="Left" VerticalAlignment="Center" FontSize="16" FontFamily="Bahnschrift" FontWeight="Bold"/>
+            </Canvas>
+        </StackPanel>
+        <StackPanel Margin="25,16,0,105" RenderTransformOrigin="0.5,0.5" HorizontalAlignment="Left" Width="254">
+            <StackPanel.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform AngleY="-20.556"/>
+                    <RotateTransform/>
+                    <TranslateTransform Y="47.625"/>
+                </TransformGroup>
+            </StackPanel.RenderTransform>
+            <StackPanel.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="White" Offset="0.38"/>
+                    <GradientStop Color="#FF671010" Offset="1"/>
+                </LinearGradientBrush>
+            </StackPanel.Background>
+            <Image Height="120" Width="126" Source="/Logo_IPN.png" RenderTransformOrigin="0.584,0.71"/>
+            <Label Content="Instituto Politécnico Nacional&#xA;" Height="75" Width="228" FontSize="16" FontFamily="Bahnschrift" FontWeight="Bold"/>
+            <Button Content="Cerrar" Height="59" Width="117" Click="Button_Click"/>
+        </StackPanel>
+        <Label Content="Toledo Hernandez Ulises Gabriel&#xD;&#xA;8CM12&#xD;&#xA;Ingeniería de software&#xD;&#xA;2020302316&#xD;&#xA;Especialidad en computación&#xD;&#xA;" Grid.ColumnSpan="2" Margin="295,173,285,133" FontWeight="Bold" VerticalAlignment="Center" HorizontalAlignment="Center">
+            <Label.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="#FFE5DCDC"/>
+                    <GradientStop Color="White" Offset="1"/>
+                </LinearGradientBrush>
+            </Label.Background>
+        </Label>
+    </Grid>
+</Window>

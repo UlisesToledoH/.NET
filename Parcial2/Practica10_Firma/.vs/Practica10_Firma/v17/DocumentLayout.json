@@ -1,0 +1,68 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\starw\\OneDrive\\Documentos\\Proyectos POO\\OneDrive_2_10-3-2025\\RESPALDO PRACITCAS 2\\Practica10_Firma\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{233D6BF4-2C9B-4718-B516-95B253A74DBF}|Practica10_Firma.csproj|c:\\users\\starw\\onedrive\\documentos\\proyectos poo\\onedrive_2_10-3-2025\\respaldo pracitcas 2\\practica10_firma\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{233D6BF4-2C9B-4718-B516-95B253A74DBF}|Practica10_Firma.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{233D6BF4-2C9B-4718-B516-95B253A74DBF}|Practica10_Firma.csproj|C:\\Users\\starw\\OneDrive\\Documentos\\Proyectos POO\\OneDrive_2_10-3-2025\\RESPALDO PRACITCAS 2\\Practica10_Firma\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{233D6BF4-2C9B-4718-B516-95B253A74DBF}|Practica10_Firma.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{233D6BF4-2C9B-4718-B516-95B253A74DBF}|Practica10_Firma.csproj|C:\\Users\\starw\\OneDrive\\Documentos\\Proyectos POO\\OneDrive_2_10-3-2025\\RESPALDO PRACITCAS 2\\Practica10_Firma\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{233D6BF4-2C9B-4718-B516-95B253A74DBF}|Practica10_Firma.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\starw\\OneDrive\\Documentos\\Proyectos POO\\OneDrive_2_10-3-2025\\RESPALDO PRACITCAS 2\\Practica10_Firma\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\Users\\starw\\OneDrive\\Documentos\\Proyectos POO\\OneDrive_2_10-3-2025\\RESPALDO PRACITCAS 2\\Practica10_Firma\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-19T20:53:05.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\starw\\OneDrive\\Documentos\\Proyectos POO\\OneDrive_2_10-3-2025\\RESPALDO PRACITCAS 2\\Practica10_Firma\\App.xaml",
+              "RelativeDocumentMoniker": "App.xaml",
+              "ToolTip": "C:\\Users\\starw\\OneDrive\\Documentos\\Proyectos POO\\OneDrive_2_10-3-2025\\RESPALDO PRACITCAS 2\\Practica10_Firma\\App.xaml",
+              "RelativeToolTip": "App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-19T20:53:05.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\starw\\OneDrive\\Documentos\\Proyectos POO\\OneDrive_2_10-3-2025\\RESPALDO PRACITCAS 2\\Practica10_Firma\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\starw\\OneDrive\\Documentos\\Proyectos POO\\OneDrive_2_10-3-2025\\RESPALDO PRACITCAS 2\\Practica10_Firma\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAgwB0AAAAUAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAH9SURBVDhP7ZRBiBJRAIZ/x9HZVRvTgbVSWKLXxjJChy1JklgIEmLx4C0hOobH7rFE56CrLOzFQ908KFFzCEYC5xKdbG8dBJWGBbdxUldn5k0nh6cgCO2hQx/M4Z/vfz8zcxgfGF7XTg42eL6xezUMP\u002BcWHu\u002BlGqxfB44NuwkRV6ICjr/8xPfe5OXHb70nrF8HH54qr\u002BZBToZvytfCpc8nZ3hwK4qHO5vqNv3RrFar3gGe50EIQaFQMKfT6VEulzM9CYCH69ubB304S2zwHM5tilPTgsCH9\u002BOR\u002BL4sy96BwWCA8XiMTqczSCQSp5qmKdlsVp97n9cE8OFr98A8dxpvPnVRureFvBzFVsSH2WzmdRRFgaIoEEURxWIRkUjkWSwWq6XT6d9Y/obt3hi9XzO8eJRCPh2FFAIsy2IrAADXdWGaJmq1GnRdfzuZTJ7P3cJgJmkjkwQy1zdxWXDhUgeu67IVD0ophsMhNE2L1\u002Bv1S/P7frZ0/87tndGZXrqxnQLv50ApZbWHJEkghIAQgn6/j26322y32yqWn1BVVbRaLYxGo5VjhBDk83nvkiQJtm17fmHQcRxYlrXyNddhYfAi\u002BD/49/z7gzwbgsEgOI5Ds9mEIAisWolhGAiFQl5e\u002BNuUy\u002BW7lNJDwzDgOA6rViKKIgKBwPtKpfJu2V0IfwDhDrtncQ2YqQAAAABJRU5ErkJggg==",
+              "WhenOpened": "2025-06-19T20:53:05.455Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

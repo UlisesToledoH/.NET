@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practica 20 Stackpanel", "Practica 20 Stackpanel.csproj", "{A8721513-413B-4DCA-A983-F301E48426EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A8721513-413B-4DCA-A983-F301E48426EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8721513-413B-4DCA-A983-F301E48426EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8721513-413B-4DCA-A983-F301E48426EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8721513-413B-4DCA-A983-F301E48426EB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CFD36B4F-5E29-47BC-87CA-950B03EC6B9E}
+	EndGlobalSection
+EndGlobal

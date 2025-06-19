@@ -1,0 +1,53 @@
+D:\Graficas\Graficas\Graficas\bin\Debug\Graficas.exe.config
+D:\Graficas\Graficas\Graficas\bin\Debug\Graficas.exe
+D:\Graficas\Graficas\Graficas\bin\Debug\Graficas.pdb
+D:\Graficas\Graficas\Graficas\obj\Debug\Graficas.csproj.AssemblyReference.cache
+D:\Graficas\Graficas\Graficas\obj\Debug\Graficas.Form1.resources
+D:\Graficas\Graficas\Graficas\obj\Debug\Graficas.Properties.Resources.resources
+D:\Graficas\Graficas\Graficas\obj\Debug\Graficas.csproj.GenerateResource.cache
+D:\Graficas\Graficas\Graficas\obj\Debug\Graficas.csproj.CoreCompileInputs.cache
+D:\Graficas\Graficas\Graficas\obj\Debug\Graficas.exe
+D:\Graficas\Graficas\Graficas\obj\Debug\Graficas.pdb
+E:\Graficas P2\Graficas\Graficas\bin\Debug\Graficas.exe.config
+E:\Graficas P2\Graficas\Graficas\bin\Debug\Graficas.exe
+E:\Graficas P2\Graficas\Graficas\bin\Debug\Graficas.pdb
+E:\Graficas P2\Graficas\Graficas\obj\Debug\Graficas.csproj.AssemblyReference.cache
+E:\Graficas P2\Graficas\Graficas\obj\Debug\Graficas.Form1.resources
+E:\Graficas P2\Graficas\Graficas\obj\Debug\Graficas.Properties.Resources.resources
+E:\Graficas P2\Graficas\Graficas\obj\Debug\Graficas.csproj.GenerateResource.cache
+E:\Graficas P2\Graficas\Graficas\obj\Debug\Graficas.csproj.CoreCompileInputs.cache
+E:\Graficas P2\Graficas\Graficas\obj\Debug\Graficas.exe
+E:\Graficas P2\Graficas\Graficas\obj\Debug\Graficas.pdb
+D:\Proyectos de Visual\PRAC 2DO PARCIAL\Graficas P3 polares\Graficas\Graficas\bin\Debug\Graficas.exe.config
+D:\Proyectos de Visual\PRAC 2DO PARCIAL\Graficas P3 polares\Graficas\Graficas\bin\Debug\Graficas.exe
+D:\Proyectos de Visual\PRAC 2DO PARCIAL\Graficas P3 polares\Graficas\Graficas\bin\Debug\Graficas.pdb
+D:\Proyectos de Visual\PRAC 2DO PARCIAL\Graficas P3 polares\Graficas\Graficas\obj\Debug\Graficas.csproj.AssemblyReference.cache
+D:\Proyectos de Visual\PRAC 2DO PARCIAL\Graficas P3 polares\Graficas\Graficas\obj\Debug\Graficas.Form1.resources
+D:\Proyectos de Visual\PRAC 2DO PARCIAL\Graficas P3 polares\Graficas\Graficas\obj\Debug\Graficas.Properties.Resources.resources
+D:\Proyectos de Visual\PRAC 2DO PARCIAL\Graficas P3 polares\Graficas\Graficas\obj\Debug\Graficas.csproj.GenerateResource.cache
+D:\Proyectos de Visual\PRAC 2DO PARCIAL\Graficas P3 polares\Graficas\Graficas\obj\Debug\Graficas.csproj.CoreCompileInputs.cache
+D:\Proyectos de Visual\PRAC 2DO PARCIAL\Graficas P3 polares\Graficas\Graficas\obj\Debug\Graficas.csproj.CopyComplete
+D:\Proyectos de Visual\PRAC 2DO PARCIAL\Graficas P3 polares\Graficas\Graficas\obj\Debug\Graficas.exe
+D:\Proyectos de Visual\PRAC 2DO PARCIAL\Graficas P3 polares\Graficas\Graficas\obj\Debug\Graficas.pdb
+C:\Users\starw\OneDrive - Instituto Politecnico Nacional\IPN Semestres\8VO SEMESTRE\INGENIERIA DE SOFTWARE\2DO PARCIAL\PRAC 2DO PARCIAL\Graficas P2.5\Graficas\Graficas\bin\Debug\Graficas.exe.config
+C:\Users\starw\OneDrive - Instituto Politecnico Nacional\IPN Semestres\8VO SEMESTRE\INGENIERIA DE SOFTWARE\2DO PARCIAL\PRAC 2DO PARCIAL\Graficas P2.5\Graficas\Graficas\bin\Debug\Graficas.exe
+C:\Users\starw\OneDrive - Instituto Politecnico Nacional\IPN Semestres\8VO SEMESTRE\INGENIERIA DE SOFTWARE\2DO PARCIAL\PRAC 2DO PARCIAL\Graficas P2.5\Graficas\Graficas\bin\Debug\Graficas.pdb
+C:\Users\starw\OneDrive - Instituto Politecnico Nacional\IPN Semestres\8VO SEMESTRE\INGENIERIA DE SOFTWARE\2DO PARCIAL\PRAC 2DO PARCIAL\Graficas P2.5\Graficas\Graficas\obj\Debug\Graficas.csproj.AssemblyReference.cache
+C:\Users\starw\OneDrive - Instituto Politecnico Nacional\IPN Semestres\8VO SEMESTRE\INGENIERIA DE SOFTWARE\2DO PARCIAL\PRAC 2DO PARCIAL\Graficas P2.5\Graficas\Graficas\obj\Debug\Graficas.Form1.resources
+C:\Users\starw\OneDrive - Instituto Politecnico Nacional\IPN Semestres\8VO SEMESTRE\INGENIERIA DE SOFTWARE\2DO PARCIAL\PRAC 2DO PARCIAL\Graficas P2.5\Graficas\Graficas\obj\Debug\Graficas.Properties.Resources.resources
+C:\Users\starw\OneDrive - Instituto Politecnico Nacional\IPN Semestres\8VO SEMESTRE\INGENIERIA DE SOFTWARE\2DO PARCIAL\PRAC 2DO PARCIAL\Graficas P2.5\Graficas\Graficas\obj\Debug\Graficas.csproj.GenerateResource.cache
+C:\Users\starw\OneDrive - Instituto Politecnico Nacional\IPN Semestres\8VO SEMESTRE\INGENIERIA DE SOFTWARE\2DO PARCIAL\PRAC 2DO PARCIAL\Graficas P2.5\Graficas\Graficas\obj\Debug\Graficas.csproj.CoreCompileInputs.cache
+C:\Users\starw\OneDrive - Instituto Politecnico Nacional\IPN Semestres\8VO SEMESTRE\INGENIERIA DE SOFTWARE\2DO PARCIAL\PRAC 2DO PARCIAL\Graficas P2.5\Graficas\Graficas\obj\Debug\Graficas.csproj.CopyComplete
+C:\Users\starw\OneDrive - Instituto Politecnico Nacional\IPN Semestres\8VO SEMESTRE\INGENIERIA DE SOFTWARE\2DO PARCIAL\PRAC 2DO PARCIAL\Graficas P2.5\Graficas\Graficas\obj\Debug\Graficas.exe
+C:\Users\starw\OneDrive - Instituto Politecnico Nacional\IPN Semestres\8VO SEMESTRE\INGENIERIA DE SOFTWARE\2DO PARCIAL\PRAC 2DO PARCIAL\Graficas P2.5\Graficas\Graficas\obj\Debug\Graficas.pdb
+D:\Proyectos de Visual\PRAC 2DO PARCIAL\Graficas P2.5\Graficas\Graficas\bin\Debug\Graficas.exe.config
+D:\Proyectos de Visual\PRAC 2DO PARCIAL\Graficas P2.5\Graficas\Graficas\bin\Debug\Graficas.exe
+D:\Proyectos de Visual\PRAC 2DO PARCIAL\Graficas P2.5\Graficas\Graficas\bin\Debug\Graficas.pdb
+D:\Proyectos de Visual\PRAC 2DO PARCIAL\Graficas P2.5\Graficas\Graficas\obj\Debug\Graficas.csproj.AssemblyReference.cache
+D:\Proyectos de Visual\PRAC 2DO PARCIAL\Graficas P2.5\Graficas\Graficas\obj\Debug\Graficas.Formgrafi.resources
+D:\Proyectos de Visual\PRAC 2DO PARCIAL\Graficas P2.5\Graficas\Graficas\obj\Debug\Graficas.Properties.Resources.resources
+D:\Proyectos de Visual\PRAC 2DO PARCIAL\Graficas P2.5\Graficas\Graficas\obj\Debug\Graficas.csproj.GenerateResource.cache
+D:\Proyectos de Visual\PRAC 2DO PARCIAL\Graficas P2.5\Graficas\Graficas\obj\Debug\Graficas.csproj.CoreCompileInputs.cache
+D:\Proyectos de Visual\PRAC 2DO PARCIAL\Graficas P2.5\Graficas\Graficas\obj\Debug\Graficas.csproj.CopyComplete
+D:\Proyectos de Visual\PRAC 2DO PARCIAL\Graficas P2.5\Graficas\Graficas\obj\Debug\Graficas.exe
+D:\Proyectos de Visual\PRAC 2DO PARCIAL\Graficas P2.5\Graficas\Graficas\obj\Debug\Graficas.pdb

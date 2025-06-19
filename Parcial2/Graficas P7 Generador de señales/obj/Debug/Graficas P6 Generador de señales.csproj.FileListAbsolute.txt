@@ -1,0 +1,33 @@
+D:\Proyectos de Visual\PRAC 2DO PARCIAL\Graficas P6 Generador de señales\obj\Debug\Graficas P6 Generador de señales.csproj.AssemblyReference.cache
+D:\Proyectos de Visual\PRAC 2DO PARCIAL\Graficas P6 Generador de señales\obj\Debug\Graficas_P6_Generador_de_señales.Form1.resources
+D:\Proyectos de Visual\PRAC 2DO PARCIAL\Graficas P6 Generador de señales\obj\Debug\Graficas_P6_Generador_de_señales.Properties.Resources.resources
+D:\Proyectos de Visual\PRAC 2DO PARCIAL\Graficas P6 Generador de señales\obj\Debug\Graficas P6 Generador de señales.csproj.GenerateResource.cache
+D:\Proyectos de Visual\PRAC 2DO PARCIAL\Graficas P6 Generador de señales\obj\Debug\Graficas P6 Generador de señales.csproj.CoreCompileInputs.cache
+D:\Proyectos de Visual\PRAC 2DO PARCIAL\Graficas P6 Generador de señales\bin\Debug\Graficas P6 Generador de señales.exe.config
+D:\Proyectos de Visual\PRAC 2DO PARCIAL\Graficas P6 Generador de señales\bin\Debug\Graficas P6 Generador de señales.exe
+D:\Proyectos de Visual\PRAC 2DO PARCIAL\Graficas P6 Generador de señales\bin\Debug\Graficas P6 Generador de señales.pdb
+D:\Proyectos de Visual\PRAC 2DO PARCIAL\Graficas P6 Generador de señales\obj\Debug\Graficas P6 Generador de señales.csproj.CopyComplete
+D:\Proyectos de Visual\PRAC 2DO PARCIAL\Graficas P6 Generador de señales\obj\Debug\Graficas P6 Generador de señales.exe
+D:\Proyectos de Visual\PRAC 2DO PARCIAL\Graficas P6 Generador de señales\obj\Debug\Graficas P6 Generador de señales.pdb
+D:\Proyectos de Visual\PRAC 2DO PARCIAL\Graficas P7 Generador de señales\bin\Debug\Graficas P6 Generador de señales.exe.config
+D:\Proyectos de Visual\PRAC 2DO PARCIAL\Graficas P7 Generador de señales\bin\Debug\Graficas P6 Generador de señales.exe
+D:\Proyectos de Visual\PRAC 2DO PARCIAL\Graficas P7 Generador de señales\bin\Debug\Graficas P6 Generador de señales.pdb
+D:\Proyectos de Visual\PRAC 2DO PARCIAL\Graficas P7 Generador de señales\obj\Debug\Graficas P6 Generador de señales.csproj.AssemblyReference.cache
+D:\Proyectos de Visual\PRAC 2DO PARCIAL\Graficas P7 Generador de señales\obj\Debug\Graficas_P6_Generador_de_señales.Form1.resources
+D:\Proyectos de Visual\PRAC 2DO PARCIAL\Graficas P7 Generador de señales\obj\Debug\Graficas_P6_Generador_de_señales.Properties.Resources.resources
+D:\Proyectos de Visual\PRAC 2DO PARCIAL\Graficas P7 Generador de señales\obj\Debug\Graficas P6 Generador de señales.csproj.GenerateResource.cache
+D:\Proyectos de Visual\PRAC 2DO PARCIAL\Graficas P7 Generador de señales\obj\Debug\Graficas P6 Generador de señales.csproj.CoreCompileInputs.cache
+D:\Proyectos de Visual\PRAC 2DO PARCIAL\Graficas P7 Generador de señales\obj\Debug\Graficas P6 Generador de señales.csproj.CopyComplete
+D:\Proyectos de Visual\PRAC 2DO PARCIAL\Graficas P7 Generador de señales\obj\Debug\Graficas P6 Generador de señales.exe
+D:\Proyectos de Visual\PRAC 2DO PARCIAL\Graficas P7 Generador de señales\obj\Debug\Graficas P6 Generador de señales.pdb
+D:\Proyectos de Visual\PRAC 2DO PARCIAL\PRAC 2DO PARCIAL\Graficas P7 Generador de señales\bin\Debug\Graficas P6 Generador de señales.exe.config
+D:\Proyectos de Visual\PRAC 2DO PARCIAL\PRAC 2DO PARCIAL\Graficas P7 Generador de señales\bin\Debug\Graficas P6 Generador de señales.exe
+D:\Proyectos de Visual\PRAC 2DO PARCIAL\PRAC 2DO PARCIAL\Graficas P7 Generador de señales\bin\Debug\Graficas P6 Generador de señales.pdb
+D:\Proyectos de Visual\PRAC 2DO PARCIAL\PRAC 2DO PARCIAL\Graficas P7 Generador de señales\obj\Debug\Graficas P6 Generador de señales.csproj.AssemblyReference.cache
+D:\Proyectos de Visual\PRAC 2DO PARCIAL\PRAC 2DO PARCIAL\Graficas P7 Generador de señales\obj\Debug\Graficas_P6_Generador_de_señales.Form1.resources
+D:\Proyectos de Visual\PRAC 2DO PARCIAL\PRAC 2DO PARCIAL\Graficas P7 Generador de señales\obj\Debug\Graficas_P6_Generador_de_señales.Properties.Resources.resources
+D:\Proyectos de Visual\PRAC 2DO PARCIAL\PRAC 2DO PARCIAL\Graficas P7 Generador de señales\obj\Debug\Graficas P6 Generador de señales.csproj.GenerateResource.cache
+D:\Proyectos de Visual\PRAC 2DO PARCIAL\PRAC 2DO PARCIAL\Graficas P7 Generador de señales\obj\Debug\Graficas P6 Generador de señales.csproj.CoreCompileInputs.cache
+D:\Proyectos de Visual\PRAC 2DO PARCIAL\PRAC 2DO PARCIAL\Graficas P7 Generador de señales\obj\Debug\Graficas P6 Generador de señales.csproj.CopyComplete
+D:\Proyectos de Visual\PRAC 2DO PARCIAL\PRAC 2DO PARCIAL\Graficas P7 Generador de señales\obj\Debug\Graficas P6 Generador de señales.exe
+D:\Proyectos de Visual\PRAC 2DO PARCIAL\PRAC 2DO PARCIAL\Graficas P7 Generador de señales\obj\Debug\Graficas P6 Generador de señales.pdb

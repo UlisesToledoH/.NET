@@ -1,0 +1,16 @@
+D:\Proyectos de Visual\PRAC 2DO PARCIAL\Practica14\bin\Debug\Practica14.exe.config
+D:\Proyectos de Visual\PRAC 2DO PARCIAL\Practica14\bin\Debug\Practica14.exe
+D:\Proyectos de Visual\PRAC 2DO PARCIAL\Practica14\bin\Debug\Practica14.pdb
+D:\Proyectos de Visual\PRAC 2DO PARCIAL\Practica14\obj\Debug\Practica14.csproj.AssemblyReference.cache
+D:\Proyectos de Visual\PRAC 2DO PARCIAL\Practica14\obj\Debug\MainWindow.g.cs
+D:\Proyectos de Visual\PRAC 2DO PARCIAL\Practica14\obj\Debug\App.g.cs
+D:\Proyectos de Visual\PRAC 2DO PARCIAL\Practica14\obj\Debug\Practica14_Content.g.cs
+D:\Proyectos de Visual\PRAC 2DO PARCIAL\Practica14\obj\Debug\Practica14_MarkupCompile.cache
+D:\Proyectos de Visual\PRAC 2DO PARCIAL\Practica14\obj\Debug\Practica14_MarkupCompile.lref
+D:\Proyectos de Visual\PRAC 2DO PARCIAL\Practica14\obj\Debug\MainWindow.baml
+D:\Proyectos de Visual\PRAC 2DO PARCIAL\Practica14\obj\Debug\Practica14.g.resources
+D:\Proyectos de Visual\PRAC 2DO PARCIAL\Practica14\obj\Debug\Practica14.Properties.Resources.resources
+D:\Proyectos de Visual\PRAC 2DO PARCIAL\Practica14\obj\Debug\Practica14.csproj.GenerateResource.cache
+D:\Proyectos de Visual\PRAC 2DO PARCIAL\Practica14\obj\Debug\Practica14.csproj.CoreCompileInputs.cache
+D:\Proyectos de Visual\PRAC 2DO PARCIAL\Practica14\obj\Debug\Practica14.exe
+D:\Proyectos de Visual\PRAC 2DO PARCIAL\Practica14\obj\Debug\Practica14.pdb

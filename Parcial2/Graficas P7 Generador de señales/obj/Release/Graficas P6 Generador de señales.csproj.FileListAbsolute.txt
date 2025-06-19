@@ -1,0 +1,12 @@
+C:\Users\starw\OneDrive\Documentos\Proyectos POO\OneDrive_2_10-3-2025\RESPALDO PRACITCAS 2\Graficas P7 Generador de señales\bin\Release\Graficas P6 Generador de señales.exe.config
+C:\Users\starw\OneDrive\Documentos\Proyectos POO\OneDrive_2_10-3-2025\RESPALDO PRACITCAS 2\Graficas P7 Generador de señales\bin\Release\Graficas P6 Generador de señales.exe
+C:\Users\starw\OneDrive\Documentos\Proyectos POO\OneDrive_2_10-3-2025\RESPALDO PRACITCAS 2\Graficas P7 Generador de señales\bin\Release\Graficas P6 Generador de señales.pdb
+C:\Users\starw\OneDrive\Documentos\Proyectos POO\OneDrive_2_10-3-2025\RESPALDO PRACITCAS 2\Graficas P7 Generador de señales\bin\Release\info.lundin.math.dll
+C:\Users\starw\OneDrive\Documentos\Proyectos POO\OneDrive_2_10-3-2025\RESPALDO PRACITCAS 2\Graficas P7 Generador de señales\obj\Release\Graficas P6 Generador de señales.csproj.AssemblyReference.cache
+C:\Users\starw\OneDrive\Documentos\Proyectos POO\OneDrive_2_10-3-2025\RESPALDO PRACITCAS 2\Graficas P7 Generador de señales\obj\Release\Graficas_P6_Generador_de_señales.Form1.resources
+C:\Users\starw\OneDrive\Documentos\Proyectos POO\OneDrive_2_10-3-2025\RESPALDO PRACITCAS 2\Graficas P7 Generador de señales\obj\Release\Graficas_P6_Generador_de_señales.Properties.Resources.resources
+C:\Users\starw\OneDrive\Documentos\Proyectos POO\OneDrive_2_10-3-2025\RESPALDO PRACITCAS 2\Graficas P7 Generador de señales\obj\Release\Graficas P6 Generador de señales.csproj.GenerateResource.cache
+C:\Users\starw\OneDrive\Documentos\Proyectos POO\OneDrive_2_10-3-2025\RESPALDO PRACITCAS 2\Graficas P7 Generador de señales\obj\Release\Graficas P6 Generador de señales.csproj.CoreCompileInputs.cache
+C:\Users\starw\OneDrive\Documentos\Proyectos POO\OneDrive_2_10-3-2025\RESPALDO PRACITCAS 2\Graficas P7 Generador de señales\obj\Release\Graficas.9E3C91A4.Up2Date
+C:\Users\starw\OneDrive\Documentos\Proyectos POO\OneDrive_2_10-3-2025\RESPALDO PRACITCAS 2\Graficas P7 Generador de señales\obj\Release\Graficas P6 Generador de señales.exe
+C:\Users\starw\OneDrive\Documentos\Proyectos POO\OneDrive_2_10-3-2025\RESPALDO PRACITCAS 2\Graficas P7 Generador de señales\obj\Release\Graficas P6 Generador de señales.pdb

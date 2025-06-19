@@ -1,0 +1,15 @@
+D:\Proyectos de Visual\PRAC 2DO PARCIAL\Practica15_NavegacionForms\bin\Debug\Practica15_NavegacionForms.exe.config
+D:\Proyectos de Visual\PRAC 2DO PARCIAL\Practica15_NavegacionForms\bin\Debug\Practica15_NavegacionForms.exe
+D:\Proyectos de Visual\PRAC 2DO PARCIAL\Practica15_NavegacionForms\bin\Debug\Practica15_NavegacionForms.pdb
+D:\Proyectos de Visual\PRAC 2DO PARCIAL\Practica15_NavegacionForms\obj\Debug\Practica15_NavegacionForms.csproj.AssemblyReference.cache
+D:\Proyectos de Visual\PRAC 2DO PARCIAL\Practica15_NavegacionForms\obj\Debug\Practica15_NavegacionForms.Form1.resources
+D:\Proyectos de Visual\PRAC 2DO PARCIAL\Practica15_NavegacionForms\obj\Debug\Practica15_NavegacionForms.Form10.resources
+D:\Proyectos de Visual\PRAC 2DO PARCIAL\Practica15_NavegacionForms\obj\Debug\Practica15_NavegacionForms.Properties.Resources.resources
+D:\Proyectos de Visual\PRAC 2DO PARCIAL\Practica15_NavegacionForms\obj\Debug\Practica15_NavegacionForms.csproj.GenerateResource.cache
+D:\Proyectos de Visual\PRAC 2DO PARCIAL\Practica15_NavegacionForms\obj\Debug\Practica15_NavegacionForms.csproj.CoreCompileInputs.cache
+D:\Proyectos de Visual\PRAC 2DO PARCIAL\Practica15_NavegacionForms\obj\Debug\Practica15_NavegacionForms.exe
+D:\Proyectos de Visual\PRAC 2DO PARCIAL\Practica15_NavegacionForms\obj\Debug\Practica15_NavegacionForms.pdb
+D:\Proyectos de Visual\PRAC 2DO PARCIAL\Practica15_NavegacionForms\obj\Debug\Practica15_NavegacionForms.Form20.resources
+D:\Proyectos de Visual\PRAC 2DO PARCIAL\Practica15_NavegacionForms\obj\Debug\Practica15_NavegacionForms.Form11.resources
+D:\Proyectos de Visual\PRAC 2DO PARCIAL\Practica15_NavegacionForms\obj\Debug\Practica15_NavegacionForms.Form21.resources
+D:\Proyectos de Visual\PRAC 2DO PARCIAL\Practica15_NavegacionForms\obj\Debug\Practica15_NavegacionForms.Form22.resources

@@ -1,0 +1,15 @@
+C:\Users\starw\OneDrive - Instituto Politecnico Nacional\IPN Semestres\8VO SEMESTRE\INGENIERIA DE SOFTWARE\PRAC 2DO PARCIAL\Practica19 Contenedor GRID\bin\Debug\Practica19.exe.config
+C:\Users\starw\OneDrive - Instituto Politecnico Nacional\IPN Semestres\8VO SEMESTRE\INGENIERIA DE SOFTWARE\PRAC 2DO PARCIAL\Practica19 Contenedor GRID\bin\Debug\Practica19.exe
+C:\Users\starw\OneDrive - Instituto Politecnico Nacional\IPN Semestres\8VO SEMESTRE\INGENIERIA DE SOFTWARE\PRAC 2DO PARCIAL\Practica19 Contenedor GRID\bin\Debug\Practica19.pdb
+C:\Users\starw\OneDrive - Instituto Politecnico Nacional\IPN Semestres\8VO SEMESTRE\INGENIERIA DE SOFTWARE\PRAC 2DO PARCIAL\Practica19 Contenedor GRID\obj\Debug\Practica19.csproj.AssemblyReference.cache
+C:\Users\starw\OneDrive - Instituto Politecnico Nacional\IPN Semestres\8VO SEMESTRE\INGENIERIA DE SOFTWARE\PRAC 2DO PARCIAL\Practica19 Contenedor GRID\obj\Debug\MainWindow.g.cs
+C:\Users\starw\OneDrive - Instituto Politecnico Nacional\IPN Semestres\8VO SEMESTRE\INGENIERIA DE SOFTWARE\PRAC 2DO PARCIAL\Practica19 Contenedor GRID\obj\Debug\App.g.cs
+C:\Users\starw\OneDrive - Instituto Politecnico Nacional\IPN Semestres\8VO SEMESTRE\INGENIERIA DE SOFTWARE\PRAC 2DO PARCIAL\Practica19 Contenedor GRID\obj\Debug\Practica19_MarkupCompile.cache
+C:\Users\starw\OneDrive - Instituto Politecnico Nacional\IPN Semestres\8VO SEMESTRE\INGENIERIA DE SOFTWARE\PRAC 2DO PARCIAL\Practica19 Contenedor GRID\obj\Debug\Practica19_MarkupCompile.lref
+C:\Users\starw\OneDrive - Instituto Politecnico Nacional\IPN Semestres\8VO SEMESTRE\INGENIERIA DE SOFTWARE\PRAC 2DO PARCIAL\Practica19 Contenedor GRID\obj\Debug\MainWindow.baml
+C:\Users\starw\OneDrive - Instituto Politecnico Nacional\IPN Semestres\8VO SEMESTRE\INGENIERIA DE SOFTWARE\PRAC 2DO PARCIAL\Practica19 Contenedor GRID\obj\Debug\Practica19.g.resources
+C:\Users\starw\OneDrive - Instituto Politecnico Nacional\IPN Semestres\8VO SEMESTRE\INGENIERIA DE SOFTWARE\PRAC 2DO PARCIAL\Practica19 Contenedor GRID\obj\Debug\Practica19.Properties.Resources.resources
+C:\Users\starw\OneDrive - Instituto Politecnico Nacional\IPN Semestres\8VO SEMESTRE\INGENIERIA DE SOFTWARE\PRAC 2DO PARCIAL\Practica19 Contenedor GRID\obj\Debug\Practica19.csproj.GenerateResource.cache
+C:\Users\starw\OneDrive - Instituto Politecnico Nacional\IPN Semestres\8VO SEMESTRE\INGENIERIA DE SOFTWARE\PRAC 2DO PARCIAL\Practica19 Contenedor GRID\obj\Debug\Practica19.csproj.CoreCompileInputs.cache
+C:\Users\starw\OneDrive - Instituto Politecnico Nacional\IPN Semestres\8VO SEMESTRE\INGENIERIA DE SOFTWARE\PRAC 2DO PARCIAL\Practica19 Contenedor GRID\obj\Debug\Practica19.exe
+C:\Users\starw\OneDrive - Instituto Politecnico Nacional\IPN Semestres\8VO SEMESTRE\INGENIERIA DE SOFTWARE\PRAC 2DO PARCIAL\Practica19 Contenedor GRID\obj\Debug\Practica19.pdb

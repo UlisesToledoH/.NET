@@ -1,0 +1,7 @@
+D:\Proyectos de Visual\PRAC 2DO PARCIAL\Practica17 Herencia Consola\Herencia\bin\Debug\Herencia.exe.config
+D:\Proyectos de Visual\PRAC 2DO PARCIAL\Practica17 Herencia Consola\Herencia\bin\Debug\Herencia.exe
+D:\Proyectos de Visual\PRAC 2DO PARCIAL\Practica17 Herencia Consola\Herencia\bin\Debug\Herencia.pdb
+D:\Proyectos de Visual\PRAC 2DO PARCIAL\Practica17 Herencia Consola\Herencia\obj\Debug\Herencia.csproj.AssemblyReference.cache
+D:\Proyectos de Visual\PRAC 2DO PARCIAL\Practica17 Herencia Consola\Herencia\obj\Debug\Herencia.csproj.CoreCompileInputs.cache
+D:\Proyectos de Visual\PRAC 2DO PARCIAL\Practica17 Herencia Consola\Herencia\obj\Debug\Herencia.exe
+D:\Proyectos de Visual\PRAC 2DO PARCIAL\Practica17 Herencia Consola\Herencia\obj\Debug\Herencia.pdb

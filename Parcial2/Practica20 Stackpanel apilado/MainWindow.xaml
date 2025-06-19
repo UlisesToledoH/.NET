@@ -1,0 +1,26 @@
+﻿<Window x:Class="Practica_20_Stackpanel.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Practica_20_Stackpanel"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+       
+            <StackPanel  Orientation="Horizontal" VerticalAlignment="Bottom">
+            
+            
+            </StackPanel>
+        <StackPanel Orientation="Vertical" HorizontalAlignment="Left">
+            <Button Content="Soy un boton" Width="100" Height="50" Click="bt_Click"/>
+            <Rectangle Width="100" Height="50" Fill="Red"/>
+            <Ellipse Width="50" Height="20" Fill="Black" />
+            <Image Source="/Mifoto.png" Width="100" Height="100"/>
+            <TextBlock Text="ESIME" Width="60" Height="30"/>
+            
+        </StackPanel>
+
+
+    </Grid>
+</Window>
